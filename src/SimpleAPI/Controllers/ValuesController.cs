@@ -20,7 +20,7 @@ namespace SimpleAPI.Controllers
         public string Get(int id)
         {
             
-            return "anh";
+            return "Anh";
         }
 
         // POST api/<ValuesController>
